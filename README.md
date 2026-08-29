@@ -1,129 +1,258 @@
-# 👋 About Me
+# 👋 Hi, I'm Prem Sai Surisetti
 
-I’m a **B.Tech CSE student and software developer** passionate about building practical applications and solving real-world problems through code.
+### 💻 B.Tech CSE Student | Software Developer | DSA Enthusiast | AI & Full-Stack Explorer
 
-My development journey spans **Java, Data Structures & Algorithms, Full-Stack Development, Databases, AI/ML, and modern web technologies**. I enjoy turning ideas into working projects and continuously improving my skills through hands-on development.
+I'm a **Computer Science student and developer** passionate about building practical software, solving problems, and turning ideas into real-world applications.
 
-Currently, I’m focused on strengthening my **DSA and software engineering fundamentals** while building projects that combine **web development, AI, and real-world problem solving**.
+My GitHub journey covers **Java, Data Structures & Algorithms, Full-Stack Development, Databases, AI/ML, and modern web technologies**.
 
-🚀 **Building. Learning. Experimenting. Improving.**
+I enjoy learning by building — experimenting with new technologies, developing projects, solving problems, and continuously improving my engineering skills.
+
+🚀 **Build. Learn. Experiment. Improve.**
+
+---
+
+## 🧑‍💻 About Me
+
+* 🎓 B.Tech CSE Student
+* 💻 Passionate about **Software Development**
+* ☕ Strong interest in **Java & Data Structures**
+* 🌐 Building **Full-Stack Web Applications**
+* 🤖 Exploring **AI & Machine Learning**
+* 🗄️ Learning and working with **Databases**
+* 🧠 Improving **Problem Solving & DSA**
+* 🚀 Interested in building **real-world, product-oriented projects**
+* 💡 Always looking for new ideas to turn into working products
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages & Core
+### 💻 Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=database\&logoColor=white)
+`Java` `JavaScript` `TypeScript` `Python` `SQL` `HTML` `CSS`
 
----
+### 🌐 Web Development
 
-### 🌐 Frontend Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
-
----
+`HTML5` `CSS3` `JavaScript` `React` `TypeScript` `Vite`
 
 ### ⚙️ Backend & Databases
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-
----
+`Flask` `Node.js` `SQL` `MongoDB`
 
 ### 🧠 Computer Science
 
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-FF6F00?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-6A5ACD?style=for-the-badge)
-![DBMS](https://img.shields.io/badge/DBMS-00758F?style=for-the-badge)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-2E8B57?style=for-the-badge)
-
----
+`Data Structures & Algorithms`
+`Object-Oriented Programming`
+`Database Management Systems`
+`Problem Solving`
 
 ### 🤖 AI & Machine Learning
 
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+`Artificial Intelligence`
+`Machine Learning`
+`AI Applications`
+`Prompt Engineering`
+
+### 🔧 Tools
+
+`Git` `GitHub` `VS Code` `IntelliJ IDEA`
 
 ---
 
-### 🔧 Tools & Platforms
+# 🚀 Featured Projects
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge\&logo=intellij-idea\&logoColor=white)
+## 🛒 NoirKart
+
+A product-focused web platform exploring **affiliate marketing, product discovery, rewards, and referral-based experiences**.
+
+**Focus:** Web Development • Product Building • Affiliate Marketing
 
 ---
 
-## 🚀 Featured Projects
+## 📚 Question Bank Management System
+
+A software project focused on managing question banks with **pattern matching, fuzzy search, and similarity-based question retrieval**.
+
+**Focus:** Java • Algorithms • Search • Similarity
+
+---
+
+## 🤖 AI Portfolio Copilot
+
+An AI-powered project exploring how **artificial intelligence can assist developers with portfolio creation and improvement**.
+
+**Focus:** Python • AI • Automation • Developer Tools
+
+---
+
+## 🚨 Emergency Evacuation Planner
+
+A web-based solution designed to assist with **emergency planning, evacuation routes, and efficient decision-making during critical situations**.
+
+**Focus:** JavaScript • Web Development • Problem Solving
+
+---
+
+## 🍱 Canteen Pre-Order System
+
+A web application designed to make **canteen ordering faster and more convenient** through online food pre-ordering.
+
+**Focus:** JavaScript • Web Development • User Experience
+
+---
+
+## 📊 UserPulse
+
+A full-stack application focused on **user behavior, analytics, and identifying patterns that can help improve user retention**.
+
+**Focus:** JavaScript • Full-Stack Development • Analytics
+
+---
+
+## 🐾 Happy Paws Hub
+
+A pet-focused digital platform designed around **pet care, services, and improving the experience of pet owners**.
+
+**Focus:** TypeScript • Web Development • Product Design
+
+---
+
+## 🛡️ Certificate Validator
+
+A project focused on **digital certificate verification and validation**, helping identify potentially invalid or fraudulent certificates.
+
+**Focus:** TypeScript • Web Development • Verification
+
+---
+
+## 🎯 Online Quiz System
+
+A Java-based quiz application featuring **multiple categories, question handling, scoring, and result tracking**.
+
+**Focus:** Java • OOP • Application Development
+
+---
+
+## 💻 Personal Portfolio
+
+A personal developer portfolio designed to showcase my **skills, projects, technologies, and development journey**.
+
+**Focus:** TypeScript • Web Development • Personal Branding
+
+---
+
+# 🧩 Other Work
+
+### 🤖 60 Days Claude AI Challenge
+
+A collection of **AI experiments, prompt engineering, automation workflows, daily projects, and learning progress** from a 60-day AI challenge.
+
+### 📚 Study Share
+
+A project focused on **sharing and organizing educational resources**.
+
+### 📖 Study Booster
+
+A student-focused project designed around **learning and productivity**.
 
 ### 🧠 DSA Project
 
-Java-based implementation and exploration of **Data Structures & Algorithms**, focused on strengthening problem-solving and core CS fundamentals.
-
-### 🎯 Online Quiz System
-
-A Java-based quiz application demonstrating **OOP, application logic, user interaction, and structured programming**.
-
-### 📊 UserPulse
-
-A web-based project focused on **user interaction, analytics, and application development**.
+A Java-based project focused on **Data Structures, algorithms, and problem-solving fundamentals**.
 
 ### 🌐 FWD Project
 
-A frontend-focused project demonstrating **modern web development and interactive user interfaces**.
-
-### 🛡️ Certificate Validator
-
-A web project focused on **digital certificate validation and verification**.
-
-### 💻 Personal Portfolio
-
-A personal developer portfolio showcasing my **projects, skills, and development journey**.
+A web development project demonstrating **frontend development and interactive web concepts**.
 
 ---
 
-## 🎯 Current Focus
+# 🎯 Current Focus
 
 ```text
-📚 Strengthening DSA
 ☕ Mastering Java
+🧠 Strengthening DSA
 🌐 Building Full-Stack Applications
 🤖 Exploring AI & Machine Learning
 🗄️ Improving Database Skills
-🚀 Building Real-World Projects
-💡 Turning Ideas Into Products
+💻 Building Real-World Projects
+🚀 Developing Product Ideas
+📚 Becoming a Better Software Engineer
 ```
 
 ---
 
-## 📊 GitHub Activity
+# 📈 My Developer Journey
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=premsaisurisetty-a11y\&show_icons=true\&theme=transparent\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=premsaisurisetty-a11y\&layout=compact\&theme=transparent\&hide_border=true)
+```text
+        LEARN
+          ↓
+      EXPERIMENT
+          ↓
+        BUILD
+          ↓
+       DEBUG
+          ↓
+       IMPROVE
+          ↓
+        REPEAT
+          ↓
+     BUILD BETTER 🚀
+```
 
 ---
 
-## 🌐 Connect With Me
+# 💡 What I Believe
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://premsportfolio-five.vercel.app)
+> **Don't just learn technologies. Build something with them.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/prem-sai-surisetti-872003382/)
+Every project is an opportunity to learn something new, solve a problem, and become a better developer.
 
 ---
 
-### 💡 Build. Break. Learn. Repeat. 🚀
+# 🌱 Currently Learning
+
+* Advanced Data Structures & Algorithms
+* Java & Problem Solving
+* Full-Stack Development
+* Artificial Intelligence
+* Machine Learning
+* Database Systems
+* Software Engineering
+* Building scalable real-world applications
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in **technology, software development, AI, innovative ideas, and meaningful projects**.
+
+### 🌐 Portfolio
+
+**Personal Developer Portfolio**
+
+### 💼 LinkedIn
+
+**Let's connect professionally**
+
+### 🐙 GitHub
+
+**Explore my projects and development journey**
+
+---
+
+# ⚡ Developer Mode
+
+```text
+while(alive) {
+    learn();
+    build();
+    solveProblems();
+    improve();
+}
+```
+
+---
+
+### 🚀 Build. Learn. Experiment. Improve.
+
+⭐ Thanks for visiting my profile!
