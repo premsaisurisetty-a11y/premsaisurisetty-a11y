@@ -19,7 +19,6 @@ My development journey covers **Java, Data Structures & Algorithms, Full-Stack D
 🗄️ **Database & Backend Learner**
 🚀 **Real-World Project Builder**
 🧠 **Problem Solver**
-💡 **Product & Startup Enthusiast**
 
 ---
 
